@@ -7,7 +7,7 @@ This repo is used for you to get familiar with git and git-hub.
 ### Week 1 Background
 1. What is version control(https://www.atlassian.com/git/tutorials/what-is-version-control)
 2. [Install Git](https://git-scm.com/) (Lastest Version)
-3. Learn how to change configuration for Git (Global/Personal).[Configure username](https://confluence.atlassian.com/bitbucket/configure-your-dvcs-username-for-commits-950301867.html)
+3. Learn how to change configuration for Git (Global/Repo-sepc).[Configure username](https://confluence.atlassian.com/bitbucket/configure-your-dvcs-username-for-commits-950301867.html)
 4. Learn [how to set-up ssh key authentication](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html) for GitHub
 5. Clone this repo to your computer. You could follow up the [Clone a repository](https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html)
 
