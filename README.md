@@ -5,7 +5,7 @@ A empty project for training purpose
 This repo is used for you to get familiar with git and git-hub.
 
 ### Week 1 Background
-1. Register GitHub account.
+1. What is version control(https://www.atlassian.com/git/tutorials/what-is-version-control)
 2. [Install Git](https://git-scm.com/) (Lastest Version)
 3. Learn how to change configuration for Git (Global/Personal).[Configure username](https://confluence.atlassian.com/bitbucket/configure-your-dvcs-username-for-commits-950301867.html)
 4. Learn [how to set-up ssh key authentication](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html) for GitHub
@@ -14,6 +14,7 @@ This repo is used for you to get familiar with git and git-hub.
 6. **Please NOTE: some of the links are from bitbucket and not from github**
 
 #### Tasks:
+  1. Register GitHub account.
   1. Clone the repository to your computer **OVER SSH**
   2. If you have interests make another clone OVER HTTP
   3. create a file such as text.**yourFirstName** in the repo and successfully push to the github Repo.
