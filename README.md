@@ -11,5 +11,15 @@ This repo is used for you to get familiar with git and git-hub.
 4. Learn [how to set-up ssh key authentication](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html) for GitHub
 
 ### Week 2 Basic Command.
-1. git clone - 
+1. git init
+1. git clone
+1. git add
+1. git commit
+1. git push
+1. git diff
+1. git show
+1. git reset ...
+1. git checkout ...
+1. git branch ...
+1. git cherry-pick ...
 2. create a file end with your first name as an extension and commit the file
